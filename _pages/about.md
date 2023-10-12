@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focus is on the drivers of firm innovation and its long term productivity effect. I use microeconometrics to study the firm’s innovation decision and general equilibrium models to understand its macroeconomic impact.
+My research focus is on the drivers of firm innovation and its long term productivity effect. I use microeconometrics to study the firm’s innovation decision and general equilibrium models to understand its macroeconomic impact. My work was publised in The Economic Journal, among others. 
 
 I am honored to be part of the research project „Long Term Effects of Privatization in Eastern Germany“, founded through the Max-Planck Research Award 2019.
 
