@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/2017_compnet
 venue: "several, incl. European Commission"
-date: 2017
+date: 2017-07-01
 location: "several"
 ---
 

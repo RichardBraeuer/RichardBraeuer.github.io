@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/2019_compnet
 venue: "Tinbergen Institute"
-date: 2019
+date: 2019-07-1
 location: "Amsterdam"
 ---
 
