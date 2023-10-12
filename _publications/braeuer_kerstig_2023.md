@@ -10,5 +10,3 @@ citation: 'Richard Bräuer , Felix Kersting, Trade shocks, labour markets and mi
 ---
 
 [Download paper here](https://academic.oup.com/ej/advance-article/doi/10.1093/ej/uead068/7258817)
-
-Recommended citation: Richard Bräuer , Felix Kersting, Trade shocks, labour markets and migration in the First Globalisation, The Economic Journal, 2023
