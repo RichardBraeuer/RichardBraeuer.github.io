@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Richard Bräuer"
-  avatar           : "profile.png"
+  avatar           : "foto-richard-braeuer.png"
   bio              : "Economist at IWH, Department of Structural Change and Productivity"
   location         : "Halle (Saale)"
   employer         :
-  pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     : "https://www.researchgate.net/profile/Richard-Braeuer"
   uri              :

@@ -9,43 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+Since February 2020
+
+Scientific Staff in the Research Project „Long-term effects of privatisation in eastern Germany“ (link).
+
+August 2016 to August 2019
+
+Scientific Staff at CompNet; Transfer and implementation of competition indicators, Development of CompNet trainings and workshops
+
+
+
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+August 2017 – May 2021
+
+Doctoral Student at the VU Amsterdam (Supervisor: Prof. Eric Bartelsman)
+TA for Tinbergen Summer school
+
+October 2015 – May 2021
+
+Doctoral Researcher at IWH; Research on the determinants of firm level productivity, especially competition
+
+October 2008 to July 2014
+
+Student of Modern History at the Ludwig-Maximilians-Universität Munich (Magister degree)
+
+October 2010 to October 2012
+
+Graduate student of Economics at the Ludwig-Maximilians-Universität Munich
+
+October 2007 to October 2010
+
+Undergraduate Student of Economics at the Ludwig-Maximilians-Universität Munich
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +62,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
