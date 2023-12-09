@@ -17,7 +17,7 @@ Work experience
 
 Since February 2020
 
-Scientific Staff in the Research Project „Long-term effects of privatisation in eastern Germany“ (link).
+Scientific Staff in the Research Project „Long-term effects of privatisation in eastern Germany“ ([link](https://www.iwh-halle.de/nc/en/press/press-releases/detail/long-term-effects-of-privatisation-in-eastern-germany-award-winning-us-economist-begins-large-scale-1/))
 
 August 2016 to August 2019
 
