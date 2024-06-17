@@ -10,7 +10,7 @@ redirect_from:
 
 My research focus is on the drivers of firm innovation and its long term productivity effect. I use microeconometrics to study the firm’s innovation decision and general equilibrium models to understand its macroeconomic impact. My work was published in The Economic Journal, among others. 
 
-I am honored to be part of the research project „Long Term Effects of Privatization in Eastern Germany“, founded through the Max-Planck Research Award 2019.
+I am honored to be part of the research project „Long Term Effects of Privatization in Eastern Germany“, founded through the Max-Planck Research Award 2019 to Ufuk Akcigit.
 
 Previously, I was part of the scientific staff of the Competitiveness Research Network (CompNet), which gathers detailed data on the European Economy using a distributed micro moments approach.
 
