@@ -15,8 +15,8 @@ EU countries and by documenting the speed performance of our
 code in simulated data. The main requirement of this method is that
 instruments and exogenous regressors have to be present in all data
 sets.'
-date: 2024-08-30
+date: 2024-05-30
 venue: 'Working Paper'
 paperurl: ''
-citation: ''
+
 ---
