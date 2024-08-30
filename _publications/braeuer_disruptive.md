@@ -8,5 +8,3 @@ venue: 'IWH Working Paper'
 paperurl: 'http://Richardbraeuer.github.io/files/braeuer_disruptive.pdf'
 citation: 'Richard Bräuer, The Aggregate Effects of the Decline of Disruptive Innovation, IWH Working Paper, 2024'
 ---
-
-[Download paper here](http://Richardbraeuer.github.io/files/braeuer_disruptive.pdf)
