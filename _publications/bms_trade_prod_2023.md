@@ -14,12 +14,12 @@ venue: 'The World Economy'
 
 paperurl: ''
 
-citation: 'Richard Bräuer, Felix Kersting, Trade shocks, labour markets and migration in the First Globalisation, The Economic Journal, 2024'
+citation: 'Braeuer, R., Mertens, M., Slavtchev, V. (2023). Import competition and firm productivity: Evidence from German manufacturing. The World Economy, 00, 00–21.'
 
 PublicationStatus: 'Published'
 
-tags: ['economic history','trade shocks','labor']
+tags: ['trade shocks','firm productivity']
 
 ---
 
-[download here](https://academic.oup.com/ej/advance-article/doi/10.1093/ej/uead068/7258817)
+[download here](https://onlinelibrary.wiley.com/doi/10.1111/twec.13409)
