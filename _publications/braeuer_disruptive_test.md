@@ -23,4 +23,5 @@ tags: ['Growth','Market Power','Firm Dynamics']
 
 ---
 
+[download](https://academic.oup.com/ej/advance-article/doi/10.1093/ej/uead068/7258817)
 
