@@ -6,7 +6,7 @@ collection: publications
 
 permalink: /publication/bms_trade_prod_2023
 
-excerpt: 'This paper studies the economic and political effects of a large trade shock in agriculture—the grain invasion from the Americas—in Prussia during the first globalisation (1870-1913). We show that this shock led to a decline in the employment rate and overall income. However, we do not observe declining per capita income and political polarization, which we explain by a strong migration response. Our results suggest that the negative and persistent effects of trade shocks we see today are not a universal feature of globalisation, but depend on labour mobility. For our analysis, we digitize data from Prussian industrial and agricultural censuses on the county level and combine it with national trade data at the product level. We exploit the cross-regional variation in cultivated crops within Prussia and instrument with Italian and US trade data to isolate exogenous variation.'
+excerpt: 'We study how different types of import competition affect firm productivity using firm-product data from German manufacturing (2000–2014). Competition from high-income countries causes affected domestic firms to increase their productivity and lower their prices. Oppositely, import competition from low-wage countries does not lead to firm productivity gains. Instead, domestic firms' sales and input usage decline. Our findings confirm the intuition of ladder models that the effect of competition depends on the “closeness” of competitors. They are in line with widespread X-inefficiencies throughout the economy, which firms reduce in response to competition from high-income countries.'
 
 date: 2024-01-01
 
