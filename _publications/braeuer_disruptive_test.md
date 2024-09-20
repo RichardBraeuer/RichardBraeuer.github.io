@@ -7,7 +7,7 @@ collection: publications
 permalink: 'https://academic.oup.com/ej/advance-article/doi/10.1093/ej/uead068/7258817'
 
 
-excerpt: ''
+excerpt: 'Abstract test'
 
 date: 2024-01-01
 
@@ -23,4 +23,4 @@ tags: ['Growth','Market Power','Firm Dynamics']
 
 ---
 
-Abstract test
+
