@@ -4,7 +4,7 @@ title: "test"
 
 collection: publications
 
-permalink: /publication/braeuer_disruptive_test 
+permalink: 'https://academic.oup.com/ej/advance-article/doi/10.1093/ej/uead068/7258817'
 
 
 excerpt: ''
