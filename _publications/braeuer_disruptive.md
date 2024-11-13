@@ -6,7 +6,7 @@ excerpt: 'This paper proposes to explain the productivity growth slowdown with f
 date: 2024-06-04
 venue: 'IWH Working Paper'
 paperurl: ''
-citation: 'Richard Bräuer, The Aggregate Effects of the Decline of Disruptive Innovation, IWH Working Paper, 2024'
+
 ---
 
-[download](http://academicpages.github.io/files/braeuer_disruptive.pdf)
+[download](http://richardbraeuer.github.io/files/braeuer_disruptive.pdf)
