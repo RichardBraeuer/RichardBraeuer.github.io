@@ -30,12 +30,7 @@ Education
 
 August 2017 – May 2021
 
-Doctoral Student at the VU Amsterdam (Supervisor: Prof. Eric Bartelsman)
-TA for Tinbergen Summer school
-
-October 2015 – May 2021
-
-Doctoral Researcher at IWH; Research on the determinants of firm level productivity, especially competition
+Doctoral Researcher at the Halle Institute for Economic Research (IWH) and Vrije Universiteit Amsterdam (VU), Dissertation “Firm Level Drivers of Productivity Growth”, defended on May 10th 2021, doctoral advisor Eric J. Bartelsman 
 
 October 2008 to July 2014
 
