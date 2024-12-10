@@ -9,11 +9,11 @@
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   working_papers:
-    title: 'Working Papers'
+    title: ''Working Papers''
   published:
-    title: 'Journal Articles'    
+    title: ''Journal Articles''    
   ongoing:
-    title: 'Ongoing Work'
+    title: ''Ongoing Work''
 
 
 # Site Settings
