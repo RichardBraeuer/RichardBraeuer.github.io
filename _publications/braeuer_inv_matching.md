@@ -7,5 +7,4 @@ excerpt: 'I analyze the matching of firms and inventors and the patent (citation
 date: 2024-01-04
 venue: 'Working Paper'
 paperurl: ''
-citation: ''
 ---

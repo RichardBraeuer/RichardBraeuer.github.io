@@ -16,8 +16,6 @@ venue: 'Working Paper'
 
 paperurl: ' '
 
-citation: ' '
-
 PublicationStatus: 'Preprint'
 
 tags: ['econometrics','comparative economics','GMM']
