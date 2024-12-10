@@ -4,6 +4,8 @@ title: "Import competition and firm productivity: Evidence from German manufactu
 
 collection: publications
 
+category: published
+
 permalink: /publication/bms_trade_prod_2023
 
 excerpt: 'We study how different types of import competition affect firm productivity using firm-product data from German manufacturing (2000–2014). Competition from high-income countries causes affected domestic firms to increase their productivity and lower their prices. Oppositely, import competition from low-wage countries does not lead to firm productivity gains. Instead, domestic firms` sales and input usage decline. Our findings confirm the intuition of ladder models that the effect of competition depends on the “closeness” of competitors. They are in line with widespread X-inefficiencies throughout the economy, which firms reduce in response to competition from high-income countries.'

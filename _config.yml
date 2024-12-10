@@ -8,12 +8,12 @@
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
+  working_papers:
+    title: 'Working Papers'
+  published:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  ongoing:
+    title: 'Ongoing Work'
 
 
 # Site Settings
