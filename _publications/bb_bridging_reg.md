@@ -1,20 +1,28 @@
 ---
 
-title: "GMM over Split Data Sets"
+title: "When Aggregation is Necessary, is it Necessarily Bad?"
 
 collection: publications
 
-category: working_papers
+category: ongoing
 
 permalink: /publication/bb_bridging_reg
 
-excerpt: 'We present an algorithm for linear GMM estimation which works even if the researcher cannot combine the underlying data into one data set. We discuss three different applications: First, a Regression where X- and Y- variables are in different data sets. Second a Regression where observations are in different data sets. Third, a Regression where the complete data is so large as to be unwieldy. We demonstrate these use cases by studying the effects of German R&D subsidies without merging patent and firm data, estimating a Europe-wide production function without merging the firm level data sets of different EU countries and by documenting the speed performance of our code in simulated data. The main requirement of this method is that instruments and exogenous regressors have to be present in all data sets.'
+excerpt: 'This paper explores microeconometric inference when the required
+variables and/or observations are stored in siloed datasts that cannot
+be combined. Proposals for estimation strategies are given for different
+cases, depending on the (in)ability to stack observations from multiple
+micro-level datasets or merge variables at the micro level across
+datasets. In all our proposed research strategies, some level of aggregation
+is necessary in order to stack micro-aggregated observations
+and/or merge the variables at a less granular level. We discuss examples
+of our methods using actual and simulated datasets, in light of
+the Grunfeld and Griliches (1960) paper, ’Is Aggregation Necessarily
+Bad’.'
 
 date: 2024-05-30
 
 venue: 'Working Paper'
-
-paperurl: ' '
 
 PublicationStatus: 'Preprint'
 

@@ -17,12 +17,10 @@ date: 2024-02-01
 
 venue: 'Working Paper'
 
-paperurl: ' '
+paperurl: '/files/braeuer_deist_mertens_2024.pdf'
 
 PublicationStatus: 'Preprint'
 
-tags: ['econometrics','comparative economics','GMM']
+tags: ['Innovation','Labor market power', 'Economic Geography']
 
 ---
-
-[download here](http://Richardbraeuer.github.io/files/braeuer_deist_mertens_2024.pdf)
