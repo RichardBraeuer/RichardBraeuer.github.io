@@ -11,39 +11,58 @@ redirect_from:
 
 
 
-Work experience
-======
+Richard Bräuer  
+Kleine Märkerstraße 8, 06108 Halle (Saale)  
+📧 [braeuer@ios-regensburg.de](mailto:braeuer@ios-regensburg.de)  
+🌐 [richardbraeuer.github.io](https://richardbraeuer.github.io)
+
+---
+
+## Research Interests
+
+Growth, Innovation, Macroeconomics, Labor Markets, Theory of the Firm, Trade
+
+---
+
+## Academic Career
+
+**Postdoctoral Researcher**, IOS Regensburg  
+*2025–present*
+
+**Postdoctoral Researcher**, Research Group "The Economic Gap between East and West Germany"  
+*2021–2025*  
+Funded by the Max Planck-Humboldt Research Award 2019 to Ufuk Akcigit
+
+**PhD in Economics**, Vrije Universiteit Amsterdam  
+*2017–2021*  
+Dissertation: *Firm Level Drivers of Productivity Growth*  
+Supervisor: Eric J. Bartelsman
+
+**Scientific Staff**, Halle Institute for Economic Research (IWH) and CompNet  
+*2015–2020*  
+European data collection, workshop development
+
+**M.A. in Economics and History**, Ludwig-Maximilians-Universität Munich  
+*2007–2014*
+
+---
 
 
-Since February 2020
+## Teaching Experience
 
-Scientific Staff in the Research Project „Long-term effects of privatisation in eastern Germany“ ([link](https://www.iwh-halle.de/nc/en/press/press-releases/detail/long-term-effects-of-privatisation-in-eastern-germany-award-winning-us-economist-begins-large-scale-1/))
+- TA, Tinbergen Summer School "Productivity, Trade and Growth" (2017–2019)  
+- Seminar on productivity estimation, use of microdata, and firm-level EU datasets (2017, w/ Mertens)  
+- TA in Microeconomics, LMU Munich (2011–2013), avg. evaluation: 1.57
 
-August 2016 to August 2019
+---
 
-Scientific Staff at CompNet; Transfer and implementation of competition indicators, Development of CompNet trainings and workshops
+## Additional Information
 
+- **Referee for**: *The Economic Journal*, Spring Meeting of Young Economists  
+- **Recent Presentations**: EEA 2024, EALE 2024, DRUID 2024, CompNet 2024, IAAE 2024, VfS 2024, AEA 2024/25 (planned)  
+- **Languages**: German (native), English (fluent), Spanish (A2)
 
-
-Education
-======
-
-August 2017 – May 2021
-
-Doctoral Researcher at the Halle Institute for Economic Research (IWH) and Vrije Universiteit Amsterdam (VU), Dissertation “Firm Level Drivers of Productivity Growth”, defended on May 10th 2021, doctoral advisor Eric J. Bartelsman 
-
-October 2008 to July 2014
-
-Student of Modern History at the Ludwig-Maximilians-Universität Munich (Magister degree)
-
-October 2010 to October 2012
-
-Graduate student of Economics at the Ludwig-Maximilians-Universität Munich
-
-October 2007 to October 2010
-
-Undergraduate Student of Economics at the Ludwig-Maximilians-Universität Munich
-
+---
 
 Publications
 ======
